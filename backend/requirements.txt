@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+SpeechRecognition
+pydantic
+python-multipart
